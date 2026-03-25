@@ -1,0 +1,13 @@
+name: shop_mvc_app
+
+description: A Flutter MVC project for an online shop with authentication and shopping cart features.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
